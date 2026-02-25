@@ -1,0 +1,412 @@
+---
+title: "How Scarcity Affects You and Your Clients"
+author: "Ben Jaques-Leslie"
+institute: "Economic Assistance and Employment Supports Division<br>Minnesota Department of Human Services"
+date: "April 15, 2026"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    footer: "Minnesota Department of Human Services | mn.gov/dhs"
+    logo: "assets/dhs-logo.png"  # replace or remove if no logo file
+    incremental: false
+    transition: fade
+    font-size: 1.2em
+    margin: 0.1
+---
+
+## What do these people have in common? {.center}
+
+::: {.incremental}
+- A financial worker at the beginning of the month with a line of participants out the door
+- A mother in a low-income Minnesota family with bills to pay
+- A chronically food-insecure man who doesn't know when his next meal will come
+:::
+
+::: {.notes}
+To start, I want you to think about people in three different situations. Hold the question—we'll come back to it.
+:::
+
+---
+
+## Plan for Session
+
+::: {.incremental}
+1. Scarcity
+2. Bandwidth
+3. Tunnel
+4. Poverty in the context of scarcity
+5. Behavioral science
+6. Designing for scarcity
+:::
+
+::: {.notes}
+I want to hear from you as much as possible. If you have questions, let me know. I'll stop for discussion several times during the session.
+:::
+
+---
+
+## What do these people have in common?
+
+**They all experience scarcity.**
+
+> Scarcity of time, income, and calories.
+
+These things are very different, but when people experience scarcity, they tend to behave in very similar ways.
+
+::: {.notes}
+Return to the three people. What do ya'll think? (5 minutes discussion) Then reveal: scarcity of time, income, and calories.
+:::
+
+---
+
+## Limited Bandwidth
+
+Bandwidth is the brain's capacity to perform basic functions that underlie higher-order behavior and decision-making.
+
+. . .
+
+**Road under construction:** A lane closes. Traffic slows. Some cars take the wrong exit.
+
+. . .
+
+**40 browser tabs open:** Every new page loads slower. You're pulling more through the same connection.
+
+. . .
+
+Scarcity taxes this capacity.
+
+::: {.notes}
+The first thing that happens when people experience scarcity is that their bandwidth becomes limited. Use either the road construction or browser analogy depending on which lands better with the group.
+:::
+
+---
+
+## Tunnel
+
+When bandwidth is strained, people **tunnel**—focusing on the most immediate need and reducing long-term thinking.
+
+. . .
+
+> In 1944, researchers at the University of Minnesota deliberately starved 36 conscientious objectors. As the men lost weight, many became obsessed with food. When they watched movies, they ignored the dialogue and focused on any food on screen.
+
+. . .
+
+Extreme scarcity produces extreme tunneling.
+
+::: {.notes}
+The Minnesota Starvation Experiment. The men had extreme caloric scarcity and tunneled into exactly what they needed: food. This is an extreme example, but the dynamic operates at all levels of scarcity.
+:::
+
+---
+
+## Group Discussion {.discussion}
+
+### What are situations in your life where you experience scarcity?
+
+- What did you do to overcome it?
+- What happened to the rest of your life?
+- How have you seen participants deal with scarcity?
+
+*~10 minutes*
+
+---
+
+## Scarcity in the Context of Poverty
+
+> "I was just in a rush to get home… because day care closes at 6. I get off at 5… a 10-mile drive, busy traffic… I had to pick up diapers..."
+
+— Brandi Drew
+
+. . .
+
+Brandi used the wrong card. She was fired after 10 years on the job.
+
+. . .
+
+She later maxed out a $500 credit card on household supplies. By the time she paid it off, she owed over $800.
+
+::: {.notes}
+Two types of scarcity in Brandi's story: time scarcity led to a small mistake with large consequences; financial scarcity led to tunneling on immediate needs without being able to weigh longer-term costs.
+:::
+
+---
+
+## Car Trouble — $300
+
+> Imagine you've got car trouble and repairs cost **$300**. Your auto insurance will cover half the cost. You need to decide whether to go ahead and get the car fixed, or take a chance and hope that it lasts a while longer.
+>
+> How would you make this decision? Financially, would it be easy or hard?
+
+*Researchers then administered a cognitive test.*
+
+::: {.notes}
+Researchers went to a mall in New Jersey and stopped shoppers. For half of them, the car cost $300. How do you think scores of "rich" patrons compared to "poor" patrons? (1 minute) There was no difference.
+:::
+
+---
+
+## Car Trouble — $3,000
+
+> Imagine you've got car trouble and repairs cost **$3,000**. Your auto insurance will cover half the cost. You need to decide whether to go ahead and get the car fixed, or take a chance and hope that it lasts a while longer.
+>
+> How would you make this decision? Financially, would it be easy or hard?
+
+*Researchers then administered the same cognitive test.*
+
+::: {.notes}
+The researchers increased the cost. Now how do you think scores compare? (1 minute)
+:::
+
+---
+
+## IQ Point Drop for People with Lower Incomes
+
+:::{.r-fit-text}
+**14**
+:::
+
+IQ points lower among lower-income respondents in the $3,000 condition — but not the $300 condition.
+
+. . .
+
+> The same difference as between "superior" and "average" intelligence — or between "average" and "borderline deficient." Greater than the deficit from staying awake for 24 hours.
+
+::: {.notes}
+People with low incomes are not less intelligent. The $300 condition showed equal scores. The $3,000 scenario activated financial stress that taxed cognitive bandwidth—but only for people for whom that cost was a real concern. Poverty is not about ability. It's about bandwidth.
+:::
+
+---
+
+## Poverty Is Chronic Scarcity
+
+Simply *thinking* about a financial stressor had this effect.
+
+. . .
+
+What are the effects of living with real scarcity every day?
+
+. . .
+
+People with low incomes must always focus on immediate needs. There is no cushion. Mistakes that are trivial for higher-income people can be catastrophic.
+
+::: {.notes}
+The subtle point of the previous experiment: just getting people to think about scarcity had profound effects on cognition. Brandi's small mistake cost her a 10-year job. Her credit card decision—rational in the moment—compounded her financial stress.
+:::
+
+---
+
+## Where Do These Lessons Come From?
+
+### Behavioral Science
+
+Draws from psychology, marketing, neuroscience, and behavioral economics.
+
+. . .
+
+Key findings:
+- Shorter deadlines produce greater responsiveness than longer ones
+- Too many choices leads to no choice at all
+
+. . .
+
+**Core question:** Why do people not behave rationally? What causes us to make so many decisions that aren't in our best interest?
+
+---
+
+## How Do People Take Action?
+
+::: {.columns}
+
+::: {.column width="50%"}
+**Traditional view**
+
+1. Weigh available information
+2. Assess costs and benefits
+3. Make the best personal choice
+4. Take action
+:::
+
+::: {.column width="50%"}
+**Behavioral view**
+
+*Where'd I put that email?*
+
+*I don't understand what it says.*
+
+*When is my paycheck?*
+
+*Will I ever even need this?*
+
+*Crap! I need to decide.*
+
+*Uhhh… this one.*
+
+*I'll do it tomorrow.*
+:::
+
+:::
+
+::: {.notes}
+Life gets in the way. The behavioral view isn't a failure of people—it's a realistic model of how decisions get made under constraint. Our systems often assume the traditional model and fail when people behave like humans.
+:::
+
+---
+
+## Life Gets in the Way
+
+Life gets in the way of rational decision-making on the best of days.
+
+. . .
+
+**Our systems exacerbate behavioral barriers** — for workers and for participants.
+
+---
+
+## Hassle Factors
+
+**Hassle factors** cause people to fail to act due to sometimes small inconveniences.
+
+. . .
+
+> We might intend to mail an important document for weeks, but finding a stamp and envelope is enough to convince us that tomorrow is a better day.
+
+. . .
+
+**Example:** The combined application form for SNAP and MFIP starts with two pages of dense text. Questions are hard to parse. Formatting is inconsistent. Now imagine English isn't your first language.
+
+::: {.notes}
+Hassle factors affect both participants and workers. The combined application form is one example on the participant side. In your own work: where do you see hassle factors?
+:::
+
+---
+
+## Group Discussion {.discussion}
+
+### What are examples of hassle factors in your work?
+
+*~10 minutes*
+
+---
+
+## Designing for Scarcity
+
+Three principles for reshaping programs and interactions:
+
+1. **Cut costs** — reduce friction and inconvenience (not budget)
+2. **Create slack** — build in room for error
+3. **Reframe and empower** — treat families as experts
+
+---
+
+## Cutting Costs: Michigan Works!
+
+Michigan Works! in SW Michigan targeted UI recipients to help them return to work faster. Low participation was the problem.
+
+. . .
+
+**Intervention:** Behavioral researchers designed encouragement emails — positive tone, personally addressed, concise instructions, reminders, and planning prompts.
+
+. . .
+
+**Result:** Randomized recipients were more likely to set up a session and complete the program.
+
+. . .
+
+Removing friction — not changing the program itself — improved access and completion.
+
+---
+
+## Creating Slack: Packing a Car
+
+A person with a large car packs for camping without much planning. If they forget something, there's room to add it.
+
+. . .
+
+A person with a small car has to plan carefully. One forgotten item means repacking everything.
+
+. . .
+
+**Apply to money:** A higher income means you don't have to track every purchase. An unexpected expense is manageable. A low income means everything must go perfectly, and any surprise can cascade.
+
+. . .
+
+Look for opportunities to create slack in time, resources, and process.
+
+---
+
+## Group Discussion {.discussion}
+
+### What costs do our systems put on you?
+
+### Are there opportunities to create more slack in your work?
+
+*~10 minutes*
+
+---
+
+## Reflection {.discussion}
+
+### How do your own experiences with scarcity affect your work with participants?
+
+*~10 minutes*
+
+::: {.notes}
+You may need all of their paperwork to keep their benefits going, but the system you're working in is complicated. How do the behavioral constraints of your own work affect your interactions with clients? [Flip to Mentimeter if using it.]
+:::
+
+---
+
+## Reframe and Empower: Some Ideas
+
+::: {.incremental}
+**Intention language**
+- "People with low incomes" not "poor people"
+- "Participant/client" not "case/recipient"
+- "Coach/family advocate" not "case manager/social worker"
+
+**Plausible paths**
+- Share peers' successful paths
+- Use concrete action plans
+- Encourage positive norms
+
+**Families as experts**
+- Make decisions *with* families, not *for* them
+- Collect and act on family feedback systematically
+:::
+
+::: {.notes}
+At a conference in Denver, a young woman who grew up in poverty said what had changed her trajectory was a counselor who asked her what she wanted with her life. She had never been asked that before. She felt listened to. It was a simple act. Reframing and empowering doesn't require a new program. It can start in the next conversation.
+:::
+
+---
+
+## Group Discussion {.discussion}
+
+### How have you tried to reframe your interactions with families?
+
+What would you like to do? What can you do **next week**?
+
+*~10 minutes*
+
+---
+
+## Conclusion
+
+::: {.incremental}
+- Scarcity affects all of us, and affects people with low incomes most acutely and chronically.
+- Our systems create behavioral barriers for both workers and participants.
+- Three principles — cutting costs, creating slack, and reframing and empowering — can make our programs and interactions work better.
+:::
+
+---
+
+## Thank You
+
+**Ben Jaques-Leslie**
+Research Scientist
+Economic Assistance and Employment Supports Division
+Minnesota Department of Human Services
+
+benjamin.jaques-leslie@state.mn.us
+651-431-3940
