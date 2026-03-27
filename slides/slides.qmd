@@ -1,14 +1,14 @@
 ---
 title: "How Scarcity Affects You and Your Clients"
 author: "Ben Jaques-Leslie"
-institute: "Economic Assistance and Employment Supports Division<br>Minnesota Department of Human Services"
+institute: "Minnesota Management and Budget"
 date: "April 15, 2026"
 format:
   revealjs:
-    theme: simple
+    theme: [simple, custom.scss]
     slide-number: true
-    footer: "Minnesota Department of Human Services | mn.gov/dhs"
-    logo: "assets/dhs-logo.png"  # replace or remove if no logo file
+    footer: "Minnesota Management and Budget"
+    logo: "assets/mmb-logo.png"  # replace or remove if no logo file
     incremental: false
     transition: fade
     font-size: 1.2em
@@ -60,9 +60,11 @@ Return to the three people. What do ya'll think? (5 minutes discussion) Then rev
 
 ---
 
-## Limited Bandwidth
+## Limited Bandwidth {background-image="assets/traffic.jpg" background-size="cover"}
 
-Bandwidth is the brain's capacity to perform basic functions that underlie higher-order behavior and decision-making.
+::: {style="background: rgba(0,0,30,0.65); padding: 1em; border-radius: 8px; color: white;"}
+Bandwidth is the brain's capacity to perform basic functions...
+:::
 
 . . .
 
@@ -82,7 +84,7 @@ The first thing that happens when people experience scarcity is that their bandw
 
 ---
 
-## Tunnel
+## Tunnel {background-image="assets/tunnel.jpg" background-size="cover"}
 
 When bandwidth is strained, people **tunnel**—focusing on the most immediate need and reducing long-term thinking.
 
@@ -162,36 +164,38 @@ The researchers increased the cost. Now how do you think scores compare? (1 minu
 
 ## IQ Point Drop for People with Lower Incomes
 
-:::{.r-fit-text}
-**14**
-:::
+### **14 IQ points**
 
-IQ points lower among lower-income respondents in the $3,000 condition — but not the $300 condition.
+Lower among lower-income respondents in the $3,000 condition — but not the $300 condition.
 
 . . .
 
-> The same difference as between "superior" and "average" intelligence — or between "average" and "borderline deficient." Greater than the deficit from staying awake for 24 hours.
+> The same difference as between "superior" and "average" intelligence. Greater than the deficit from staying awake for 24 hours.
+
+. . .
+
+*Subsequent replications have found varying effect sizes. The core finding — that financial worry temporarily impairs cognition — remains well-supported.*
 
 ::: {.notes}
-People with low incomes are not less intelligent. The $300 condition showed equal scores. The $3,000 scenario activated financial stress that taxed cognitive bandwidth—but only for people for whom that cost was a real concern. Poverty is not about ability. It's about bandwidth.
+People with low incomes are not less intelligent. The $300 condition showed equal scores. The $3,000 scenario activated financial stress that taxed cognitive bandwidth—but only for people for whom that cost was a real concern. Poverty is not about ability. It's about bandwidth. If someone asks about the 14-point number: the original study found this, and the authors' own replications supported the core mechanism, but the specific magnitude has varied across studies. The important takeaway is the direction, not the exact number.
 :::
 
 ---
 
 ## Poverty Is Chronic Scarcity
 
-Simply *thinking* about a financial stressor had this effect.
+Simply *thinking* about a financial stressor had this effect. What happens when scarcity is real and constant?
 
 . . .
 
-What are the effects of living with real scarcity every day?
+In India, researchers tested sugarcane farmers before and after harvest. Cognitive performance improved after they were paid — not because they changed, but because the scarcity lifted.
 
 . . .
 
-People with low incomes must always focus on immediate needs. There is no cushion. Mistakes that are trivial for higher-income people can be catastrophic.
+For people in persistent poverty, there is no harvest. There is no cushion. Mistakes that are trivial for higher-income people can be catastrophic.
 
 ::: {.notes}
-The subtle point of the previous experiment: just getting people to think about scarcity had profound effects on cognition. Brandi's small mistake cost her a 10-year job. Her credit card decision—rational in the moment—compounded her financial stress.
+The subtle point of the previous experiment: just getting people to think about scarcity had profound effects on cognition. The sugarcane study shows the same person performs differently depending on whether scarcity is active. That's why this is not about ability. Brandi's small mistake cost her a 10-year job. Her credit card decision—rational in the moment—compounded her financial stress. The episodic vs. chronic distinction matters: a busy worker at the start of the month recovers when the rush passes. For people in poverty, the rush doesn't pass.
 :::
 
 ---
@@ -199,18 +203,18 @@ The subtle point of the previous experiment: just getting people to think about 
 ## Where Do These Lessons Come From?
 
 ### Behavioral Science
+::: {.incremental}
 
-Draws from psychology, marketing, neuroscience, and behavioral economics.
+- Draws from psychology, marketing, neuroscience, and behavioral economics.
 
-. . .
+- Key findings:
 
-Key findings:
-- Shorter deadlines produce greater responsiveness than longer ones
-- Too many choices leads to no choice at all
+  - Shorter deadlines produce greater responsiveness than longer ones
+  - Too many choices leads to no choice at all
+  
+- **Core question:** Why do people not behave rationally? What causes us to make so many decisions that aren't in our best interest?
 
-. . .
-
-**Core question:** Why do people not behave rationally? What causes us to make so many decisions that aren't in our best interest?
+:::
 
 ---
 
@@ -317,17 +321,17 @@ Removing friction — not changing the program itself — improved access and co
 
 ---
 
-## Creating Slack: Packing a Car
+## Creating Slack: Packing a Car {background-image="assets/car-big.jpg" background-size="cover"}
 
-A person with a large car packs for camping without much planning. If they forget something, there's room to add it.
-
-. . .
-
-A person with a small car has to plan carefully. One forgotten item means repacking everything.
+A person with a large car packs for camping without much planning. If they forget something, there's room to add it. A person with a small car has to plan carefully. One forgotten item means repacking everything.
 
 . . .
 
-**Apply to money:** A higher income means you don't have to track every purchase. An unexpected expense is manageable. A low income means everything must go perfectly, and any surprise can cascade.
+**Apply to money:** A low income means everything must go perfectly. Any surprise can cascade.
+
+. . .
+
+**Apply to programs:** What if a missed verification deadline triggered a reminder and a grace period instead of an immediate closure? That's slack.
 
 . . .
 
@@ -360,19 +364,19 @@ You may need all of their paperwork to keep their benefits going, but the system
 ## Reframe and Empower: Some Ideas
 
 ::: {.incremental}
-**Intention language**
+**Intentional language**
 - "People with low incomes" not "poor people"
-- "Participant/client" not "case/recipient"
-- "Coach/family advocate" not "case manager/social worker"
+- "Participant" not "case"; "Coach" not "case manager"
 
 **Plausible paths**
-- Share peers' successful paths
-- Use concrete action plans
-- Encourage positive norms
+- Share peers' successful paths; use concrete action plans
 
 **Families as experts**
 - Make decisions *with* families, not *for* them
-- Collect and act on family feedback systematically
+
+**Community and relationships**
+- Relational approaches — emphasizing social connection and collective success — outperform individual self-sufficiency messaging
+- Ask: "Who supports you?" not just "What's your plan?"
 :::
 
 ::: {.notes}
@@ -396,6 +400,7 @@ What would you like to do? What can you do **next week**?
 ::: {.incremental}
 - Scarcity affects all of us, and affects people with low incomes most acutely and chronically.
 - Our systems create behavioral barriers for both workers and participants.
+- When a worker who is tunneling meets a participant who is tunneling, that's where friction lives — and that's where small changes matter most.
 - Three principles — cutting costs, creating slack, and reframing and empowering — can make our programs and interactions work better.
 :::
 
@@ -404,9 +409,8 @@ What would you like to do? What can you do **next week**?
 ## Thank You
 
 **Ben Jaques-Leslie**
-Research Scientist
-Economic Assistance and Employment Supports Division
-Minnesota Department of Human Services
+Results Coordinator
+Minnesota Management and Budget
 
-benjamin.jaques-leslie@state.mn.us
+ben.jaques-leslie@state.mn.us
 651-431-3940

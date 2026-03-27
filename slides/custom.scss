@@ -1,0 +1,88 @@
+/*-- scss:defaults --*/
+
+// State of Minnesota Primary Brand Colors (2024 Style Guide)
+$mn-blue:        #003865;
+$mn-green:       #78BE21;
+$mn-white:       #FFFFFF;
+$mn-black:       #000000;
+
+// Accent Colors (High Contrast) - for charts, graphs, emphasis
+$mn-teal:        #008EAA;
+$mn-accent-green:#0D5257;
+$mn-orange:      #8D3F2B;
+$mn-purple:      #5D295F;
+
+// Extended Accent Colors - data visualization, graphic elements
+$mn-blue-gray:   #A4BCC2;
+$mn-cream:       #F5E1A4;
+$mn-sky-blue:    #9BCBEB;
+$mn-gold:        #FFC845;
+
+// Neutral Grays
+$mn-dark-gray:   #53565A;
+$mn-medium-gray: #97999B;
+$mn-light-gray:  #D9D9D6;
+
+// Apply to Reveal.js variables
+$body-bg:                     $mn-white;
+$body-color:                  $mn-dark-gray;
+$link-color:                  $mn-teal;
+$presentation-heading-color:  $mn-blue;
+$presentation-heading-font:   "Calibri", "Arial", sans-serif;
+$presentation-font-size-root: 36px;
+$font-family-sans-serif:      "Calibri", "Arial", sans-serif;
+
+/*-- scss:rules --*/
+
+// Slide title bar styling - MN Blue dominant per 70/30 ratio
+.reveal .slide-number {
+  color: $mn-white;
+  background-color: $mn-blue;
+  padding: 4px 10px;
+  border-radius: 2px;
+}
+
+// Section headings
+.reveal h1,
+.reveal h2 {
+  color: $mn-blue;
+  border-bottom: 3px solid $mn-green;
+  padding-bottom: 0.2em;
+}
+
+.reveal h3 {
+  color: $mn-blue;
+}
+
+// Blockquotes - MN Blue left border
+.reveal blockquote {
+  border-left: 4px solid $mn-blue;
+  background-color: rgba($mn-light-gray, 0.3);
+  padding: 0.8em 1em;
+  font-style: italic;
+}
+
+// Strong/bold text in MN Blue for emphasis
+.reveal strong {
+  color: $mn-blue;
+}
+
+// Footer styling
+.reveal .footer {
+  color: $mn-dark-gray;
+  font-size: 0.5em;
+}
+
+// Discussion slides - distinct styling
+.reveal section.discussion h3 {
+  color: $mn-teal;
+}
+
+// Incremental list styling
+.reveal .incremental > * {
+  opacity: 0.2;
+}
+
+.reveal .incremental > *.visible {
+  opacity: 1;
+}
