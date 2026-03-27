@@ -78,6 +78,28 @@ $font-family-sans-serif:      "Calibri", "Arial", sans-serif;
   color: $mn-teal;
 }
 
+// Background image slides - readable titles and body text
+.reveal section[data-background-image] h2 {
+  color: $mn-white;
+  background: rgba($mn-blue, 0.78);
+  padding: 0.2em 0.5em;
+  border-radius: 4px;
+  border-bottom: 3px solid $mn-green;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+  display: inline-block;
+}
+
+.reveal section[data-background-image] p,
+.reveal section[data-background-image] li,
+.reveal section[data-background-image] strong {
+  color: $mn-white;
+  text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.85);
+}
+
+.reveal section[data-background-image] strong {
+  color: $mn-green;
+}
+
 // Incremental list styling
 .reveal .incremental > * {
   opacity: 0.2;

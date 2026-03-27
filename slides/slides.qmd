@@ -63,20 +63,13 @@ Return to the three people. What do ya'll think? (5 minutes discussion) Then rev
 ## Limited Bandwidth {background-image="assets/traffic.jpg" background-size="cover"}
 
 ::: {style="background: rgba(0,0,30,0.65); padding: 1em; border-radius: 8px; color: white;"}
-Bandwidth is the brain's capacity to perform basic functions...
+::: {.incremental}
+- Bandwidth is the brain's capacity to perform basic functions that underlie higher-order behavior and decision-making.
+- **Road under construction:** A lane closes. Traffic slows. Some cars take the wrong exit.
+- **40 browser tabs open:** Every new page loads slower. You're pulling more through the same connection.
+- Scarcity taxes this capacity.
 :::
-
-. . .
-
-**Road under construction:** A lane closes. Traffic slows. Some cars take the wrong exit.
-
-. . .
-
-**40 browser tabs open:** Every new page loads slower. You're pulling more through the same connection.
-
-. . .
-
-Scarcity taxes this capacity.
+:::
 
 ::: {.notes}
 The first thing that happens when people experience scarcity is that their bandwidth becomes limited. Use either the road construction or browser analogy depending on which lands better with the group.
@@ -164,17 +157,11 @@ The researchers increased the cost. Now how do you think scores compare? (1 minu
 
 ## IQ Point Drop for People with Lower Incomes
 
-### **14 IQ points**
-
-Lower among lower-income respondents in the $3,000 condition — but not the $300 condition.
-
-. . .
-
-> The same difference as between "superior" and "average" intelligence. Greater than the deficit from staying awake for 24 hours.
-
-. . .
-
-*Subsequent replications have found varying effect sizes. The core finding — that financial worry temporarily impairs cognition — remains well-supported.*
+::: {.incremental}
+- **14 IQ points** lower among lower-income respondents in the $3,000 condition — but not the $300 condition.
+- The same difference as between "superior" and "average" intelligence. Greater than the deficit from staying awake for 24 hours.
+- *Subsequent replications have found varying effect sizes. The core finding — that financial worry temporarily impairs cognition — remains well-supported.*
+:::
 
 ::: {.notes}
 People with low incomes are not less intelligent. The $300 condition showed equal scores. The $3,000 scenario activated financial stress that taxed cognitive bandwidth—but only for people for whom that cost was a real concern. Poverty is not about ability. It's about bandwidth. If someone asks about the 14-point number: the original study found this, and the authors' own replications supported the core mechanism, but the specific magnitude has varied across studies. The important takeaway is the direction, not the exact number.
@@ -267,17 +254,15 @@ Life gets in the way of rational decision-making on the best of days.
 
 ---
 
-## Hassle Factors
+## Hassle Factors {background-image="assets/caf.png" background-size="cover"}
 
-**Hassle factors** cause people to fail to act due to sometimes small inconveniences.
-
-. . .
-
-> We might intend to mail an important document for weeks, but finding a stamp and envelope is enough to convince us that tomorrow is a better day.
-
-. . .
-
-**Example:** The combined application form for SNAP and MFIP starts with two pages of dense text. Questions are hard to parse. Formatting is inconsistent. Now imagine English isn't your first language.
+::: {style="background: rgba(0,30,60,0.85); padding: 1em; border-radius: 8px; color: white; width: 100%;"}
+::: {.incremental}
+- **Hassle factors** cause people to fail to act due to sometimes small inconveniences.
+- We might intend to mail a document for weeks, but finding a stamp is enough to convince us that tomorrow is a better day.
+- **Example:** The SNAP/MFIP application starts with two pages of dense text. Questions are hard to parse. Now imagine English isn't your first language.
+:::
+:::
 
 ::: {.notes}
 Hassle factors affect both participants and workers. The combined application form is one example on the participant side. In your own work: where do you see hassle factors?
@@ -323,19 +308,14 @@ Removing friction — not changing the program itself — improved access and co
 
 ## Creating Slack: Packing a Car {background-image="assets/car-big.jpg" background-size="cover"}
 
-A person with a large car packs for camping without much planning. If they forget something, there's room to add it. A person with a small car has to plan carefully. One forgotten item means repacking everything.
-
-. . .
-
-**Apply to money:** A low income means everything must go perfectly. Any surprise can cascade.
-
-. . .
-
-**Apply to programs:** What if a missed verification deadline triggered a reminder and a grace period instead of an immediate closure? That's slack.
-
-. . .
-
-Look for opportunities to create slack in time, resources, and process.
+::: {style="background: rgba(0,0,30,0.65); padding: 1em; border-radius: 8px; color: white; width: 100%;"}
+::: {.incremental}
+- A large car: forget something and there's room to add it. A small car: one forgotten item means repacking everything.
+- **Apply to money:** A low income means everything must go perfectly. Any surprise can cascade.
+- **Apply to programs:** What if a missed deadline triggered a reminder and grace period instead of immediate closure? That's slack.
+- Look for opportunities to create slack in time, resources, and process.
+:::
+:::
 
 ---
 
