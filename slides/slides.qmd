@@ -60,6 +60,24 @@ Return to the three people. What do ya'll think? (5 minutes discussion) Then rev
 
 ---
 
+## Join the Poll {.center}
+
+**Go to [menti.com](https://www.menti.com/al8p45fe6a53)**
+
+or scan the QR code:
+
+![](assets/mentimeter_qr_code.png){width=300px fig-align="center"}
+
+**Question:** In one or two words — where do you feel scarcity in your own life or work?
+
+::: {.notes}
+"Before we discuss — I want to hear from you first. Go to menti.com and enter the code, or scan the QR code on screen. Type one or two words: where do you personally feel scarcity — in your work, your life, or both? Go ahead and submit when you're ready."
+
+Give people 60–90 seconds to submit. Then switch your screen share to the Mentimeter tab to show the word cloud populating live. Narrate what you see — point out patterns. If time, work, and money appear frequently, note that scarcity shows up across all roles, not just for participants. Then advance to Limited Bandwidth.
+:::
+
+---
+
 ## Limited Bandwidth {background-image="assets/traffic.jpg" background-size="cover"}
 
 ::: {style="background: rgba(0,0,30,0.65); padding: 1em; border-radius: 8px; color: white;"}
@@ -95,18 +113,6 @@ The Minnesota Starvation Experiment. The men had extreme caloric scarcity and tu
 
 ---
 
-## Group Discussion {.discussion}
-
-### What are situations in your life where you experience scarcity?
-
-- What did you do to overcome it?
-- What happened to the rest of your life?
-- How have you seen participants deal with scarcity?
-
-*~10 minutes*
-
----
-
 ## Scarcity in the Context of Poverty
 
 > "I was just in a rush to get home… because day care closes at 6. I get off at 5… a 10-mile drive, busy traffic… I had to pick up diapers..."
@@ -137,6 +143,24 @@ Two types of scarcity in Brandi's story: time scarcity led to a small mistake wi
 
 ::: {.notes}
 Researchers went to a mall in New Jersey and stopped shoppers. For half of them, the car cost $300. How do you think scores of "rich" patrons compared to "poor" patrons? (1 minute) There was no difference.
+:::
+
+---
+
+## Join the Poll {.center}
+
+**Go to [menti.com](https://www.menti.com/al8p45fe6a53)**
+
+or scan the QR code:
+
+![](assets/mentimeter_qr_code.png){width=300px fig-align="center"}
+
+**Question:** Same decision, cost goes from $300 to $3,000. How does your answer change?
+
+::: {.notes}
+"Quick poll before I tell you what the researchers found. Same link, menti.com. The decision structure is identical — only the dollar amount changed. Did that change your answer? Pick the option that fits you best."
+
+Give people 30–45 seconds to vote. Then switch to Mentimeter to show results before moving to the next slide.
 :::
 
 ---
@@ -274,7 +298,11 @@ Hassle factors affect both participants and workers. The combined application fo
 
 ### What are examples of hassle factors in your work?
 
-*~10 minutes*
+*~5 minutes*
+
+::: {.notes}
+Ask participants to type one example in the Webex chat. Say: "Type one hassle factor you encounter in your work — hit send when you're ready." Give about 60 seconds, then read a few responses aloud and summarize patterns before moving on.
+:::
 
 ---
 
@@ -310,7 +338,8 @@ Removing friction — not changing the program itself — improved access and co
 
 ::: {style="background: rgba(0,0,30,0.65); padding: 1em; border-radius: 8px; color: white; width: 100%;"}
 ::: {.incremental}
-- A large car: forget something and there's room to add it. A small car: one forgotten item means repacking everything.
+- A large car: forget something and there's room to add it. 
+- A small car: one forgotten item means repacking everything.
 - **Apply to money:** A low income means everything must go perfectly. Any surprise can cascade.
 - **Apply to programs:** What if a missed deadline triggered a reminder and grace period instead of immediate closure? That's slack.
 - Look for opportunities to create slack in time, resources, and process.
@@ -323,9 +352,23 @@ Removing friction — not changing the program itself — improved access and co
 
 ### What costs do our systems put on you?
 
+*~5 minutes*
+
+::: {.notes}
+Verbal discussion. Focus on friction workers experience directly — paperwork, system constraints, unclear processes. Keep responses grounded in day-to-day work rather than abstract policy.
+:::
+
+---
+
+## Group Discussion {.discussion}
+
 ### Are there opportunities to create more slack in your work?
 
-*~10 minutes*
+*~5 minutes*
+
+::: {.notes}
+Verbal discussion. Encourage specific examples — grace periods, reminders, simplified steps. Connect back to the Michigan Works! example if the discussion stalls.
+:::
 
 ---
 
@@ -336,7 +379,7 @@ Removing friction — not changing the program itself — improved access and co
 *~10 minutes*
 
 ::: {.notes}
-You may need all of their paperwork to keep their benefits going, but the system you're working in is complicated. How do the behavioral constraints of your own work affect your interactions with clients? [Flip to Mentimeter if using it.]
+You may need all of their paperwork to keep their benefits going, but the system you're working in is complicated. How do the behavioral constraints of your own work affect your interactions with clients?
 :::
 
 ---
@@ -369,9 +412,23 @@ At a conference in Denver, a young woman who grew up in poverty said what had ch
 
 ### How have you tried to reframe your interactions with families?
 
-What would you like to do? What can you do **next week**?
+*~5 minutes*
 
-*~10 minutes*
+::: {.notes}
+Verbal discussion. Encourage specific examples — a phrase they use, a question they ask, a shift in how they open a conversation. The Denver story from your notes above is a good prompt if the group is quiet.
+:::
+
+---
+
+## Group Discussion {.discussion}
+
+### What is one thing you can do differently **next week**?
+
+*~3 minutes*
+
+::: {.notes}
+Ask participants to type one concrete action in the Webex chat. Say: "Not a big program change — just one thing in your next conversation with a participant. Type it in chat." Ending on a specific commitment closes the session with forward momentum.
+:::
 
 ---
 
