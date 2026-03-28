@@ -2,9 +2,11 @@
 
 A training developed for MFIP and Tribal TANF frontline workers on how scarcity affects cognition and decision-making, and how social service systems can be better designed to account for these effects.
 
-Originally developed by Ben Jaques-Leslie, Research Scientist, Economic Assistance and Employment Supports Division, Minnesota Department of Human Services.
+Originally developed by Ben Jaques-Leslie, Research Scientist, Economic Assistance and Employment Supports Division, Minnesota Management and Budget.
 
 Presented at the MFIP/Tribal TANF Conference, April 15, 2026 (Breakout Session 1, 9:00–10:20 AM).
+
+**[View slides](https://bpffjl.github.io/mfip-tribal-tanf-2026-scarcity/slides.html)**
 
 ---
 
