@@ -162,19 +162,6 @@ The researchers increased the cost. Now how do you think scores compare? (1 minu
 
 ---
 
-## IQ Point Drop for People with Lower Incomes
-
-::: {.incremental}
-- **14 IQ points** lower among lower-income respondents in the $3,000 condition — but not the $300 condition.
-- The same difference as between "superior" and "average" intelligence. Greater than the deficit from staying awake for 24 hours.
-- *Subsequent replications have found varying effect sizes. The core finding — that financial worry temporarily impairs cognition — remains well-supported.*
-:::
-
-::: {.notes}
-People with low incomes are not less intelligent. The $300 condition showed equal scores. The $3,000 scenario activated financial stress that taxed cognitive bandwidth—but only for people for whom that cost was a real concern. Poverty is not about ability. It's about bandwidth. If someone asks about the 14-point number: the original study found this, and the authors' own replications supported the core mechanism, but the specific magnitude has varied across studies. The important takeaway is the direction, not the exact number.
-:::
-
----
 
 ## Join the Poll {.center}
 
@@ -193,6 +180,20 @@ Give people 30–45 seconds to vote. Then switch to Mentimeter to show results b
 :::
 
 ---
+## IQ Point Drop for People with Lower Incomes
+
+::: {.incremental}
+- **14 IQ points** lower among lower-income respondents in the $3,000 condition — but not the $300 condition.
+- The same difference as between "superior" and "average" intelligence. Greater than the deficit from staying awake for 24 hours.
+- *Subsequent replications have found varying effect sizes. The core finding — that financial worry temporarily impairs cognition — remains well-supported.*
+:::
+
+::: {.notes}
+People with low incomes are not less intelligent. The $300 condition showed equal scores. The $3,000 scenario activated financial stress that taxed cognitive bandwidth—but only for people for whom that cost was a real concern. Poverty is not about ability. It's about bandwidth. If someone asks about the 14-point number: the original study found this, and the authors' own replications supported the core mechanism, but the specific magnitude has varied across studies. The important takeaway is the direction, not the exact number.
+:::
+
+---
+
 
 ## Poverty Is Chronic Scarcity
 
