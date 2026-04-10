@@ -147,23 +147,6 @@ Researchers went to a mall in New Jersey and stopped shoppers. For half of them,
 
 ---
 
-## Join the Poll {.center}
-
-**Go to [menti.com](https://www.menti.com/al8p45fe6a53)**
-
-or scan the QR code:
-
-![](assets/mentimeter_qr_code.png){width=300px fig-align="center"}
-
-**Question:** Same decision, cost goes from $300 to $3,000. How does your answer change?
-
-::: {.notes}
-"Quick poll before I tell you what the researchers found. Same link, menti.com. The decision structure is identical — only the dollar amount changed. Did that change your answer? Pick the option that fits you best."
-
-Give people 30–45 seconds to vote. Then switch to Mentimeter to show results before moving to the next slide.
-:::
-
----
 
 ## Car Trouble — $3,000
 
@@ -189,6 +172,24 @@ The researchers increased the cost. Now how do you think scores compare? (1 minu
 
 ::: {.notes}
 People with low incomes are not less intelligent. The $300 condition showed equal scores. The $3,000 scenario activated financial stress that taxed cognitive bandwidth—but only for people for whom that cost was a real concern. Poverty is not about ability. It's about bandwidth. If someone asks about the 14-point number: the original study found this, and the authors' own replications supported the core mechanism, but the specific magnitude has varied across studies. The important takeaway is the direction, not the exact number.
+:::
+
+---
+
+## Join the Poll {.center}
+
+**Go to [menti.com](https://www.menti.com/al8p45fe6a53)**
+
+or scan the QR code:
+
+![](assets/mentimeter_qr_code.png){width=300px fig-align="center"}
+
+**Question:** Same decision, cost goes from $300 to $3,000. How does your answer change?
+
+::: {.notes}
+"Quick poll before I tell you what the researchers found. Same link, menti.com. The decision structure is identical — only the dollar amount changed. Did that change your answer? Pick the option that fits you best."
+
+Give people 30–45 seconds to vote. Then switch to Mentimeter to show results before moving to the next slide.
 :::
 
 ---
