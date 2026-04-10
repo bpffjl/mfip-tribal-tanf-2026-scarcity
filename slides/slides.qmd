@@ -48,11 +48,13 @@ I want to hear from you as much as possible. If you have questions, let me know.
 
 ## What do these people have in common?
 
+::: {.incremental}
 **They all experience scarcity.**
 
 > Scarcity of time, income, and calories.
 
 These things are very different, but when people experience scarcity, they tend to behave in very similar ways.
+:::
 
 ::: {.notes}
 Return to the three people. What do ya'll think? (5 minutes discussion) Then reveal: scarcity of time, income, and calories.
