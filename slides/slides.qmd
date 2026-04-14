@@ -24,7 +24,13 @@ format:
 :::
 
 ::: {.notes}
-To start, I want you to think about people in three different situations. Hold the question—we'll come back to it.
+Open with: "I want to start with three people. As I describe each one, think about what their day might feel like."
+
+Read each bullet slowly and let it land before clicking to the next. The financial worker: month-end pressure, a line at the door, decisions to make fast. The mother: bills stacking up, maybe a disconnection notice, counting days to the next paycheck. The man who is food-insecure: not knowing when or where the next meal comes.
+
+Don't reveal the connection yet. Say: "Hold that thought — we'll come back to what these three have in common." Then move to the agenda.
+
+Watch the room: people often nod when they hear the financial worker. That recognition is useful — note it and come back to it later.
 :::
 
 ---
@@ -41,7 +47,11 @@ To start, I want you to think about people in three different situations. Hold t
 :::
 
 ::: {.notes}
-I want to hear from you as much as possible. If you have questions, let me know. I'll stop for discussion several times during the session.
+Briefly walk through each topic — one sentence each — so people know where you're headed. This session builds: scarcity leads to bandwidth limits, bandwidth limits lead to tunneling, and all of that plays out in the context of poverty. Behavioral science gives us the language, and designing for scarcity gives us the tools.
+
+Say: "We'll cover a lot of ground, but this isn't a lecture — I want to hear from you as much as possible. There will be several discussion pauses and a couple of polls. If you have questions along the way, drop them in chat or just speak up."
+
+Don't linger here. The agenda is a map, not the destination.
 :::
 
 ---
@@ -61,7 +71,13 @@ I want to hear from you as much as possible. If you have questions, let me know.
 These things are very different, but when people experience scarcity, they tend to behave in very similar ways.
 
 ::: {.notes}
-Return to the three people. What do ya'll think? (5 minutes discussion) Then reveal: scarcity of time, income, and calories.
+Return to the opening question. Ask: "So — what do the financial worker, the mother, and the food-insecure man have in common?" Invite a few responses before clicking to reveal.
+
+Give people 2–3 minutes to respond — don't rush to the answer. You're not looking for the exact word "scarcity"; you're surfacing the intuition that something is constrained, that pressure builds, that mistakes happen.
+
+After responses, click to reveal: scarcity of time, income, and calories. Then say: "These are very different resources. But researchers have found that when people lack any of them — time, money, food, even social connection — they tend to behave in remarkably similar ways. That's what this session is about."
+
+The phrase "very different, but similar behavior" is the conceptual hook for everything that follows. Make sure it lands before moving on.
 :::
 
 ---
@@ -96,7 +112,15 @@ Give people 60–90 seconds to submit. Then switch your screen share to the Ment
 :::
 
 ::: {.notes}
-The first thing that happens when people experience scarcity is that their bandwidth becomes limited. Use either the road construction or browser analogy depending on which lands better with the group.
+Open with: "The first thing scarcity does is tax what researchers call bandwidth — the brain's underlying capacity to think, decide, and regulate behavior."
+
+Choose the analogy that fits the room. For groups more familiar with commuting or physical work, use the road construction image: a lane closes, traffic backs up, and some cars take the wrong exit — not because the drivers are bad, but because capacity is reduced. For groups more tech-oriented, the browser tabs image often lands better: every extra tab slows the whole machine, not just that tab.
+
+Key point to make explicit: "This isn't about intelligence or motivation. It's about capacity. When bandwidth is taxed, anyone's performance degrades."
+
+If the group includes workers: "This applies to you, too — not just your participants. A financial worker with a line out the door and four system messages to resolve is already working with reduced bandwidth before the first participant sits down."
+
+Transition: "When bandwidth gets strained, something else happens — people start to tunnel."
 :::
 
 ---
@@ -114,7 +138,15 @@ When bandwidth is strained, people **tunnel**—focusing on the most immediate n
 Extreme scarcity produces extreme tunneling.
 
 ::: {.notes}
-The Minnesota Starvation Experiment. The men had extreme caloric scarcity and tunneled into exactly what they needed: food. This is an extreme example, but the dynamic operates at all levels of scarcity.
+Introduce tunneling before reading the quote: "When bandwidth gets strained, people tunnel — they lock in on the most urgent thing in front of them, and everything else fades out. Long-term thinking, planning, weighing trade-offs — all of that gets pushed aside."
+
+Then walk through the Minnesota Starvation Experiment. Ancel Keys ran it in 1944 — 36 men, all conscientious objectors, volunteered. They were given half their normal calories for six months. The psychological effects were as severe as the physical ones. The men became obsessed: they collected cookbooks, they'd linger in front of restaurant windows, they couldn't focus on conversations that weren't about food. In movies, they tuned out plot and watched for any food on screen.
+
+Say: "These were not people with weak willpower. They were volunteers who had signed up for the study knowing what it involved. The scarcity itself changed their cognition."
+
+Then land the key point before advancing: "This is an extreme example — but tunneling happens at every level of scarcity. A participant who is behind on rent is tunneling on rent. A worker in the middle of a high-volume day is tunneling on the next case. And when people tunnel, they can't access the broader thinking we often expect of them."
+
+This slide is the emotional and conceptual core. Don't rush it.
 :::
 
 ---
@@ -134,7 +166,15 @@ Brandi used the wrong card. She was fired after 10 years on the job.
 She later maxed out a $500 credit card on household supplies. By the time she paid it off, she owed over $800.
 
 ::: {.notes}
-Two types of scarcity in Brandi's story: time scarcity led to a small mistake with large consequences; financial scarcity led to tunneling on immediate needs without being able to weigh longer-term costs.
+Read Brandi's quote slowly — don't summarize it, let it breathe. The details matter: day care at 6, shift ends at 5, 10 miles, traffic, diapers. Every one of those is a demand on attention. She wasn't distracted because she was careless. She was tunneled.
+
+Then reveal the consequences one click at a time. Don't editorialize when you reveal that she was fired — let it sit for a moment. Then: "Ten years on the job. One small mistake on a high-pressure day."
+
+Then the credit card. Say: "This is tunneling on the financial side. When you don't have slack, you solve the immediate problem — diapers, groceries, a bill — without being able to factor in what that decision costs you later. Not because you can't do math, but because survival is urgent and interest rates are abstract."
+
+Key point: "Two types of scarcity showed up in Brandi's story — time and money — and both operated the same way. They narrowed her focus onto what was right in front of her, and small missteps had outsized consequences because there was no cushion."
+
+Transition: "Researchers wanted to test this in a controlled way. They set up an experiment — and the results were striking."
 :::
 
 ---
@@ -148,7 +188,15 @@ Two types of scarcity in Brandi's story: time scarcity led to a small mistake wi
 *Researchers then administered a cognitive test.*
 
 ::: {.notes}
-Researchers went to a mall in New Jersey and stopped shoppers. For half of them, the car cost $300. How do you think scores of "rich" patrons compared to "poor" patrons? (1 minute) There was no difference.
+Set up the study before asking the question. Say: "Researchers from Princeton and Harvard went to a mall in New Jersey and stopped shoppers. They presented one of two versions of this car scenario — either $300 or $3,000 — and then gave them a cognitive test measuring fluid intelligence and abstract reasoning."
+
+Read the scenario aloud — don't just let them read it. The spoken version lands differently.
+
+Then ask: "For the $300 group — how do you think people with lower incomes scored compared to people with higher incomes?" Pause for 30–60 seconds of responses. The intuitive guess is often that lower-income people score worse.
+
+Then reveal: "No difference. When the cost was $300 — a manageable amount for most people at the mall — income didn't predict cognitive performance at all."
+
+Say: "Hold that. Now let's change one thing."
 :::
 
 ---
@@ -163,7 +211,13 @@ Researchers went to a mall in New Jersey and stopped shoppers. For half of them,
 *Researchers then administered the same cognitive test.*
 
 ::: {.notes}
-The researchers increased the cost. Now how do you think scores compare? (1 minute)
+Ask: "Same test, same people, same decision structure. Only the dollar amount changed — $300 became $3,000. Now how do you think lower-income shoppers scored compared to higher-income shoppers?"
+
+Give the room 30–45 seconds. You'll likely hear "lower" this time — and that's correct. But the follow-up question matters more: "Why?"
+
+Don't answer it yet. Say: "Go ahead and hit the poll — let's see where everyone lands — and then I'll tell you what the researchers found."
+
+Advance to the poll slide.
 :::
 
 ---
@@ -230,9 +284,23 @@ The subtle point of the previous experiment: just getting people to think about 
 
   - Shorter deadlines produce greater responsiveness than longer ones
   - Too many choices leads to no choice at all
-  
+
 - **Core question:** Why do people not behave rationally? What causes us to make so many decisions that aren't in our best interest?
 
+:::
+
+::: {.notes}
+Say: "The research on scarcity comes out of a broader field called behavioral science — sometimes called behavioral economics — that has been building for about 40 years."
+
+Briefly situate the field: it pulls from psychology (how people actually think), economics (how people make decisions), marketing (how context shapes choices), and neuroscience (what's happening in the brain). It's applied — researchers and practitioners have used it to redesign everything from retirement savings enrollment to organ donation consent to public benefits applications.
+
+Walk through the two examples before the core question:
+- Shorter deadlines: counterintuitively, a deadline that feels far away triggers less action than one that feels close. People with scarcity may actually respond better to short, concrete timeframes.
+- Too many choices: this is "choice overload" — when people face too many options, they often choose nothing. Simplifying choices increases uptake.
+
+Then land the core question: "Behavioral science starts from the assumption that people are human — not perfectly rational calculators — and asks what actually drives behavior. When we build programs that assume rationality, we set both workers and participants up to fail."
+
+Transition: "So how do people actually make decisions? Let's look at the two models."
 :::
 
 ---
@@ -284,6 +352,14 @@ Life gets in the way of rational decision-making on the best of days.
 
 **Our systems exacerbate behavioral barriers** — for workers and for participants.
 
+::: {.notes}
+This is a short bridge slide — don't skip past it. Say: "Here's the thing: the behavioral model isn't a failing. It's just an honest description of how decisions get made under real conditions. Life gets in the way on the best of days."
+
+Then click to the second point and emphasize it: "But our systems — the forms, the processes, the timelines, the volume of information — often make it worse. They're often designed for the traditional model: a rational actor with time, information, and low stress. That's not most people, most of the time. And it's definitely not someone in scarcity."
+
+Pause briefly. Say: "The concept that captures this most directly is hassle factors." Then advance.
+:::
+
 ---
 
 ## Hassle Factors {background-image="assets/caf.png" background-size="cover"}
@@ -297,7 +373,15 @@ Life gets in the way of rational decision-making on the best of days.
 :::
 
 ::: {.notes}
-Hassle factors affect both participants and workers. The combined application form is one example on the participant side. In your own work: where do you see hassle factors?
+Open with: "A hassle factor is anything that creates friction between a person and an action they need to take — even when they fully intend to take it."
+
+Use the stamp example as a relatable warm-up: almost everyone has delayed mailing something because the friction of finding a stamp felt like too much that day. Then say: "Now multiply that by a stack of forms, a 45-minute hold time, or a letter written in bureaucratic language — and add the background stress of not knowing how you're covering rent this month."
+
+Walk through the SNAP/MFIP application example: two pages of dense legal text before a single question is answered. Jargon throughout. Questions that reference rules applicants are expected to know. Then ask the room to consider: "What is the experience of a parent who just got off a double shift, who has limited English proficiency, who needs this benefit urgently — sitting down with that form?"
+
+Key distinction: hassle factors affect workers too — not just participants. The image on this slide is intentional: forms on desks, systems to navigate, information to chase down. In your own work, you face hassle factors every day.
+
+Transition: "Let's hear from you. What hassle factors do you run into in your own work?"
 :::
 
 ---
@@ -322,6 +406,16 @@ Three principles for reshaping programs and interactions:
 2. **Create slack** — build in room for error
 3. **Reframe and empower** — treat families as experts
 
+::: {.notes}
+This slide is a pivot. Say: "Now that we understand what scarcity does and how our systems often make it worse — what can we actually do about it?"
+
+Frame the three principles as a set: they're not independent fixes, they're overlapping lenses. Cutting costs reduces the friction that depletes bandwidth. Creating slack reduces the consequences of tunneling. Reframing and empowering changes the dynamic of the interaction itself.
+
+Important: clarify "cut costs" immediately. Say: "'Cutting costs' here doesn't mean cutting budgets or staff — it means reducing the friction and inconvenience that people experience when trying to access or administer a program. The cost is measured in time, effort, and cognitive load."
+
+You don't need to linger long here — each principle gets its own slide. This is a roadmap. Say: "Let's look at each one." Then advance.
+:::
+
 ---
 
 ## Cutting Costs: Michigan Works!
@@ -340,18 +434,42 @@ Michigan Works! in SW Michigan targeted UI recipients to help them return to wor
 
 Removing friction — not changing the program itself — improved access and completion.
 
+::: {.notes}
+Walk through the problem first: Michigan Works! had a program to help people on unemployment insurance return to work, but uptake was low. Before assuming the program wasn't useful or that people weren't motivated, researchers asked: is there friction preventing people from engaging?
+
+The intervention was low-cost and targeted: redesigned emails. The changes weren't dramatic — they were specific. Emails were addressed personally (not "Dear Recipient"). Instructions were short and concrete, not buried in paragraphs. Reminders arrived at the right time. Planning prompts asked people to identify when they'd take the next step — a simple behavioral technique that significantly improves follow-through.
+
+Key point: "They didn't redesign the program. They didn't add staff. They changed how they communicated — and it worked."
+
+Ask the room: "What does this suggest about where we sometimes look first when participation is low? We often assume it's the program itself, or the people. But sometimes it's the hassle factor in the communication."
+
+Connect to their work: "Are there communications in your own programs — letters, notices, intake steps — where the friction could be reduced without changing the substance?"
+
+Transition: "Cutting costs is about reducing friction. The second principle — creating slack — is about building in room for things to go wrong."
+:::
+
 ---
 
 ## Creating Slack: Packing a Car {background-image="assets/car-big.jpg" background-size="cover"}
 
 ::: {style="background: rgba(0,0,30,0.65); padding: 1em; border-radius: 8px; color: white; width: 100%;"}
 ::: {.incremental}
-- A large car: forget something and there's room to add it. 
+- A large car: forget something and there's room to add it.
 - A small car: one forgotten item means repacking everything.
 - **Apply to money:** A low income means everything must go perfectly. Any surprise can cascade.
 - **Apply to programs:** What if a missed deadline triggered a reminder and grace period instead of immediate closure? That's slack.
 - Look for opportunities to create slack in time, resources, and process.
 :::
+:::
+
+::: {.notes}
+Walk through the car analogy before the bullets appear. Say: "Think about packing for a road trip. If you have a large car — an SUV or a van — and you forget something, you just toss it in. No problem. If you're packing a compact car to the roof, one forgotten item means you're rearranging everything. There's no margin."
+
+Then: "That's the difference between living with financial slack and living without it. For someone with savings or a high income, an unexpected car repair, a medical bill, a missed paycheck — it's a hassle. For someone without that cushion, it can cascade: the car repair means missing rent, missing rent means a late fee, the late fee means the electric bill doesn't get paid. Mistakes that are minor for one person can be catastrophic for another."
+
+The program application is the key design insight. Say: "Our programs often have the same structure as the packed compact car. Miss a deadline — benefit closes. One document not submitted — case terminated. But what if we asked instead: what would it look like to build in a little more room? A grace period. An automatic reminder before the deadline, not after. A call before closure." These aren't necessarily expensive — they're architectural.
+
+Ask: "Where in your work do you see opportunities to create slack?" Hold the question — there's a discussion slide coming for this. Transition: "Let's talk about it."
 :::
 
 ---
@@ -386,7 +504,15 @@ Verbal discussion. Encourage specific examples — grace periods, reminders, sim
 
 
 ::: {.notes}
-You may need all of their paperwork to keep their benefits going, but the system you're working in is complicated. How do the behavioral constraints of your own work affect your interactions with clients?
+This question asks workers to turn the lens on themselves — it's the most personal prompt in the session. Frame it carefully.
+
+Say: "We've talked a lot about what participants experience. I want to pause here and ask you to think about your own experience. When you're in the middle of a high-volume day — bandwidth strained, tunneling on the next case — how does that affect the conversation you have with a participant who is also tunneling?"
+
+The point to draw out, if the group goes quiet: "This isn't about blame. It's about recognition. When two people with limited bandwidth meet — one trying to process a case, one trying to hold their life together — the interaction itself becomes harder. Understanding that dynamic is the first step to working with it rather than against it."
+
+If someone shares something vulnerable, honor it without over-responding. Say something like: "That's real — thank you for naming it."
+
+Give 3–4 minutes. This doesn't need to be long, but it should feel genuine, not rushed. Transition: "With that in mind, let's look at what we can actually change about how we engage."
 :::
 
 ---
@@ -446,6 +572,18 @@ Ask participants to type one concrete action in the Webex chat. Say: "Not a big 
 - Our systems create behavioral barriers for both workers and participants.
 - When a worker who is tunneling meets a participant who is tunneling, that's where friction lives — and that's where small changes matter most.
 - Three principles — cutting costs, creating slack, and reframing and empowering — can make our programs and interactions work better.
+:::
+
+::: {.notes}
+Don't rush this slide. It's the chance to close the loop on everything — including those three people from the opening.
+
+Say: "At the start I asked you what a financial worker, a mother with bills, and a food-insecure man have in common. The answer was scarcity. And what we've seen today is that scarcity is not a character flaw — it's a condition that affects cognition, narrows focus, and makes mistakes more likely and more costly."
+
+Walk through the four bullets with weight, not speed. On the third bullet — when a worker who is tunneling meets a participant who is tunneling — pause. Say: "That's the collision point. And it's also where the opportunity lives. Because if you understand what's happening in that moment, you can design differently, communicate differently, and respond differently."
+
+Close by bringing it back to agency: "None of this requires a new program or a policy change — though those can help. It starts with a different question in the next conversation. It starts with removing one unnecessary step. It starts with a grace period that costs nothing. Small changes, applied consistently, compound."
+
+Let the room settle before advancing to the thank you.
 :::
 
 ---
