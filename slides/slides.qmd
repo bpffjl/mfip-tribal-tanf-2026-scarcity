@@ -13,7 +13,6 @@ format:
     transition: fade
     font-size: 1.2em
     margin: 0.1
-    show-notes: separate-page
 ---
 
 ## What do these people have in common? {.center}
