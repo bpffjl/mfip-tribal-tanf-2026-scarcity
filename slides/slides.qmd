@@ -13,6 +13,7 @@ format:
     transition: fade
     font-size: 1.2em
     margin: 0.1
+    show-notes: separate-page
 ---
 
 ## What do these people have in common? {.center}
@@ -58,6 +59,16 @@ Don't linger here. The agenda is a map, not the destination.
 
 ## What do these people have in common?
 
+::: {.notes}
+Return to the opening question. Ask: "So — what do the financial worker, the mother, and the food-insecure man have in common?" Invite a few responses before clicking to reveal.
+
+Give people 2–3 minutes to respond — don't rush to the answer. You're not looking for the exact word "scarcity"; you're surfacing the intuition that something is constrained, that pressure builds, that mistakes happen.
+
+After responses, click to reveal: scarcity of time, income, and calories. Then say: "These are very different resources. But researchers have found that when people lack any of them — time, money, food, even social connection — they tend to behave in remarkably similar ways. That's what this session is about."
+
+The phrase "very different, but similar behavior" is the conceptual hook for everything that follows. Make sure it lands before moving on.
+:::
+
 . . .
 
 **They all experience scarcity.**
@@ -69,16 +80,6 @@ Don't linger here. The agenda is a map, not the destination.
 . . .
 
 These things are very different, but when people experience scarcity, they tend to behave in very similar ways.
-
-::: {.notes}
-Return to the opening question. Ask: "So — what do the financial worker, the mother, and the food-insecure man have in common?" Invite a few responses before clicking to reveal.
-
-Give people 2–3 minutes to respond — don't rush to the answer. You're not looking for the exact word "scarcity"; you're surfacing the intuition that something is constrained, that pressure builds, that mistakes happen.
-
-After responses, click to reveal: scarcity of time, income, and calories. Then say: "These are very different resources. But researchers have found that when people lack any of them — time, money, food, even social connection — they tend to behave in remarkably similar ways. That's what this session is about."
-
-The phrase "very different, but similar behavior" is the conceptual hook for everything that follows. Make sure it lands before moving on.
-:::
 
 ---
 
@@ -127,16 +128,6 @@ Transition: "When bandwidth gets strained, something else happens — people sta
 
 ## Tunnel {background-image="assets/tunnel.jpg" background-size="cover"}
 
-When bandwidth is strained, people **tunnel**—focusing on the most immediate need and reducing long-term thinking.
-
-. . .
-
-> In 1944, researchers at the University of Minnesota deliberately starved 36 conscientious objectors. As the men lost weight, many became obsessed with food. When they watched movies, they ignored the dialogue and focused on any food on screen.
-
-. . .
-
-Extreme scarcity produces extreme tunneling.
-
 ::: {.notes}
 Introduce tunneling before reading the quote: "When bandwidth gets strained, people tunnel — they lock in on the most urgent thing in front of them, and everything else fades out. Long-term thinking, planning, weighing trade-offs — all of that gets pushed aside."
 
@@ -149,21 +140,19 @@ Then land the key point before advancing: "This is an extreme example — but tu
 This slide is the emotional and conceptual core. Don't rush it.
 :::
 
+When bandwidth is strained, people **tunnel**—focusing on the most immediate need and reducing long-term thinking.
+
+. . .
+
+> In 1944, researchers at the University of Minnesota deliberately starved 36 conscientious objectors. As the men lost weight, many became obsessed with food. When they watched movies, they ignored the dialogue and focused on any food on screen.
+
+. . .
+
+Extreme scarcity produces extreme tunneling.
+
 ---
 
 ## Scarcity in the Context of Poverty
-
-> "I was just in a rush to get home… because day care closes at 6. I get off at 5… a 10-mile drive, busy traffic… I had to pick up diapers..."
-
-— Brandi Drew
-
-. . .
-
-Brandi used the wrong card. She was fired after 10 years on the job.
-
-. . .
-
-She later maxed out a $500 credit card on household supplies. By the time she paid it off, she owed over $800.
 
 ::: {.notes}
 Read Brandi's quote slowly — don't summarize it, let it breathe. The details matter: day care at 6, shift ends at 5, 10 miles, traffic, diapers. Every one of those is a demand on attention. She wasn't distracted because she was careless. She was tunneled.
@@ -176,6 +165,18 @@ Key point: "Two types of scarcity showed up in Brandi's story — time and money
 
 Transition: "Researchers wanted to test this in a controlled way. They set up an experiment — and the results were striking."
 :::
+
+> "I was just in a rush to get home… because day care closes at 6. I get off at 5… a 10-mile drive, busy traffic… I had to pick up diapers..."
+
+— Brandi Drew
+
+. . .
+
+Brandi used the wrong card. She was fired after 10 years on the job.
+
+. . .
+
+She later maxed out a $500 credit card on household supplies. By the time she paid it off, she owed over $800.
 
 ---
 
@@ -257,6 +258,10 @@ People with low incomes are not less intelligent. The $300 condition showed equa
 
 ## Poverty Is Chronic Scarcity
 
+::: {.notes}
+The subtle point of the previous experiment: just getting people to think about scarcity had profound effects on cognition. The sugarcane study shows the same person performs differently depending on whether scarcity is active. That's why this is not about ability. Brandi's small mistake cost her a 10-year job. Her credit card decision—rational in the moment—compounded her financial stress. The episodic vs. chronic distinction matters: a busy worker at the start of the month recovers when the rush passes. For people in poverty, the rush doesn't pass.
+:::
+
 Simply *thinking* about a financial stressor had this effect. What happens when scarcity is real and constant?
 
 . . .
@@ -266,10 +271,6 @@ In India, researchers tested sugarcane farmers before and after harvest. Cogniti
 . . .
 
 For people in persistent poverty, there is no harvest. There is no cushion. Mistakes that are trivial for higher-income people can be catastrophic.
-
-::: {.notes}
-The subtle point of the previous experiment: just getting people to think about scarcity had profound effects on cognition. The sugarcane study shows the same person performs differently depending on whether scarcity is active. That's why this is not about ability. Brandi's small mistake cost her a 10-year job. Her credit card decision—rational in the moment—compounded her financial stress. The episodic vs. chronic distinction matters: a busy worker at the start of the month recovers when the rush passes. For people in poverty, the rush doesn't pass.
-:::
 
 ---
 
@@ -346,12 +347,6 @@ Life gets in the way. The behavioral view isn't a failure of people—it's a rea
 
 ## Life Gets in the Way
 
-Life gets in the way of rational decision-making on the best of days.
-
-. . .
-
-**Our systems exacerbate behavioral barriers** — for workers and for participants.
-
 ::: {.notes}
 This is a short bridge slide — don't skip past it. Say: "Here's the thing: the behavioral model isn't a failing. It's just an honest description of how decisions get made under real conditions. Life gets in the way on the best of days."
 
@@ -359,6 +354,12 @@ Then click to the second point and emphasize it: "But our systems — the forms,
 
 Pause briefly. Say: "The concept that captures this most directly is hassle factors." Then advance.
 :::
+
+Life gets in the way of rational decision-making on the best of days.
+
+. . .
+
+**Our systems exacerbate behavioral barriers** — for workers and for participants.
 
 ---
 
@@ -420,20 +421,6 @@ You don't need to linger long here — each principle gets its own slide. This i
 
 ## Cutting Costs: Michigan Works!
 
-Michigan Works! in SW Michigan targeted UI recipients to help them return to work faster. Low participation was the problem.
-
-. . .
-
-**Intervention:** Behavioral researchers designed encouragement emails — positive tone, personally addressed, concise instructions, reminders, and planning prompts.
-
-. . .
-
-**Result:** Randomized recipients were more likely to set up a session and complete the program.
-
-. . .
-
-Removing friction — not changing the program itself — improved access and completion.
-
 ::: {.notes}
 Walk through the problem first: Michigan Works! had a program to help people on unemployment insurance return to work, but uptake was low. Before assuming the program wasn't useful or that people weren't motivated, researchers asked: is there friction preventing people from engaging?
 
@@ -447,6 +434,20 @@ Connect to their work: "Are there communications in your own programs — letter
 
 Transition: "Cutting costs is about reducing friction. The second principle — creating slack — is about building in room for things to go wrong."
 :::
+
+Michigan Works! in SW Michigan targeted UI recipients to help them return to work faster. Low participation was the problem.
+
+. . .
+
+**Intervention:** Behavioral researchers designed encouragement emails — positive tone, personally addressed, concise instructions, reminders, and planning prompts.
+
+. . .
+
+**Result:** Randomized recipients were more likely to set up a session and complete the program.
+
+. . .
+
+Removing friction — not changing the program itself — improved access and completion.
 
 ---
 
